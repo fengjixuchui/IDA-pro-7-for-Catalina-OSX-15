@@ -5,5 +5,6 @@
 * 在Mojave上安装之后拖入Catalina
 ## 这个仓库的意义
 * 提供一份本人已经在Mojave上安装好的IDA，亲测在Catalina上可用
+* 链接:https://pan.baidu.com/s/1trzbRcCL3YctQISGqPxvvg  密码:ode9
 ## 拖入之后的步骤
 * 详见https://www.52pojie.cn/thread-1063122-1-1.html
