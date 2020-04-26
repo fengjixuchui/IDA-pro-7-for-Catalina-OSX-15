@@ -5,7 +5,7 @@
 * 在Mojave上安装之后拖入Catalina。
 ## 这个仓库的意义
 * 提供一份本人已经在Mojave上安装好的IDA，亲测在Catalina上可用。
-* 链接:https://pan.baidu.com/s/1trzbRcCL3YctQISGqPxvvg  密码:ode9
+* 链接: https://pan.baidu.com/s/1gojtKlL5WZz5xduAWrA5eg  密码: 9fg8
 ## 运行方式
 * 下载并解压，点进文件夹后你可以发现一个替身`idabin`,点进替身，其中的可执行程序`ida`以及`ida64`正分别对应32位和64位ida的启动入口。
 * 下面提出一种本人正在使用的方法。
